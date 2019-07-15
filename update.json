@@ -1,0 +1,15 @@
+{
+  "title": "App Update!",
+  "message": "This is new Feature Update",
+  "download": "https://github.com/Spider107/burmatvupdateapk/raw/master/BM%20Live%20Tv_signed.apk",
+  "playstore": "com.azm.burmatv",
+  "uninstall":true,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.0",
+  "versionCode": "1",
+  "force": true
+}
