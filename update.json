@@ -11,5 +11,5 @@
   },
   "versionName": "3.0",
   "versionCode": "3",
-  "force": true 
+  "force": false
 }
