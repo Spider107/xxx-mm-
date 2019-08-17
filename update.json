@@ -1,6 +1,6 @@
 {
   "title": "App Update!",
-  "message": "Version အသစ္ျဖစ္ပါသည္။Version အသစ္ download ဆြဲပါ။ဇာတ္ကားအသစ္မ်ားထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ။Teen ဆိုတဲ့ အသက္ငယ္ဇာတ္ကားမ်ားလည္းထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ၊Download ကိုနွိပ္ပါ",
+  "message": "Version အသစ္ျဖစ္ပါသည္။Version အသစ္ download ဆြဲပါ။ယခု app ကသံုးမရေတာ့ပါ ထို့ေၾကာင့္ အသစ္ကိုေဒါင္လုဒ္လုပ္ပါ။ဇာတ္ကားအသစ္မ်ားထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ။Teen ဆိုတဲ့ အသက္ငယ္ဇာတ္ကားမ်ားလည္းထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ၊Download ကိုနွိပ္ပါ",
   "download": "http://bit.ly/2Yd1Tj0",
   "playstore": "com.xapps.xxxmm",
   "uninstall":false,
@@ -11,5 +11,5 @@
   },
   "versionName": "3.0",
   "versionCode": "3",
-  "force": true
+  "force": true 
 }
