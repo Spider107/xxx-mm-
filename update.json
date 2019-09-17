@@ -1,7 +1,7 @@
 {
   "title": "App Update!",
   "message": "Version အသစ္ျဖစ္ပါသည္။Version အသစ္ download ဆြဲပါ။ယခု app ကသံုးမရေတာ့ပါ ထို့ေၾကာင့္ အသစ္ကိုေဒါင္လုဒ္လုပ္ပါ။ဇာတ္ကားအသစ္မ်ားထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ။Teen ဆိုတဲ့ အသက္ငယ္ဇာတ္ကားမ်ားလည္းထပ္တိုးေပးထားပါတယ္ခင္ဗ်ာ၊Download ကိုနွိပ္ပါ",
-  "download": "http://bit.ly/xxmm42",
+  "download": "http://bit.ly/alhdmm43",
   "playstore": "com.xapps.xxxmm",
   "uninstall":false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [],
     "all": true
   },
-  "versionName": "4.2",
-  "versionCode": "8",
+  "versionName": "4.3",
+  "versionCode": "9",
   "force": true
 }
