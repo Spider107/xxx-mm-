@@ -1,7 +1,7 @@
 {
   "title": "App Update!",
   "message": "version အေဟာင္းမွာသုံးမရေတာ့ပါ version အသစ္ကို update လုပ္ပါ ။စကားေျပာခန္းပါလာပါမည္။App name လည္း Apan Pyay လို႔ ေျပာင္းထားပါတယ္။၊Download ကိုနွိပ္ပါ",
-  "download": "http://bit.ly/updatexxmm4",
+  "download": "http://bit.ly/updatev13",
   "playstore": "com.xapps.xxxmm",
   "uninstall":false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [],
     "all": true
   },
-  "versionName": "5.1",
-  "versionCode": "10",
+  "versionName": "5.2",
+  "versionCode": "11",
   "force": true
 }
